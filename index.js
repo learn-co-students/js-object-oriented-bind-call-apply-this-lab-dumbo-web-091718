@@ -1,7 +1,7 @@
 //Your code here
 
-// let obect1{proreties: cbCity()}  <-- Methods --> let obect2{proreties: cbCity()}
-//
+let obect1{proreties: cbCity()}  <-- Methods --> let obect2{proreties: cbCity()}
+
 
 
 const obj = {num:2};
